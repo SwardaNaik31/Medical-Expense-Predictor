@@ -58,16 +58,10 @@ The model is trained on real-world insurance data and deployed as an interactive
 
 ---
 
-## 🌐 Live Demo
-
-👉 (Add your Render link here after deployment)
-
----
-
 ## ⚙️ How to Run Locally
 
 ```bash
-git clone <your-repo-link>
+git clone "https://github.com/SwardaNaik31/Medical-Expense-Predictor.git"
 cd medical-expense-predictor
 pip install -r requirements.txt
 python app/app.py
